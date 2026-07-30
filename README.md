@@ -8,7 +8,7 @@ This repository aims to provide a comprehensive understanding of Large Language 
 
 ---
 
-## Phase 1: Foundations
+## Foundations
 
 - [ ] Neural Networks
 - [ ] Deep Learning Fundamentals
@@ -22,22 +22,6 @@ This repository aims to provide a comprehensive understanding of Large Language 
 - [ ] Layer Normalization
 - [ ] Residual Connections
 - [ ] Transformer Architecture
-
----
-
-## Phase 2: Modern LLM Architectures
-
-- [ ] GPT Family
-- [ ] LLaMA Series
-- [ ] Mistral & Mixtral
-- [ ] Qwen
-- [ ] Gemma
-- [ ] Phi
-- [ ] DeepSeek
-- [ ] Mixture of Experts (MoE)
-- [ ] Sparse Architectures
-- [ ] State Space Models (Mamba)
-- [ ] Hybrid Transformer Architectures
 
 ---
 
@@ -56,7 +40,7 @@ This repository aims to provide a comprehensive understanding of Large Language 
 
 ---
 
-## Phase 4: Pre-training
+## Pre-training
 
 - [ ] Data Collection
 - [ ] Data Cleaning
@@ -70,7 +54,7 @@ This repository aims to provide a comprehensive understanding of Large Language 
 
 ---
 
-## Phase 5: Post-training
+## Post-training
 
 - [ ] Supervised Fine-Tuning (SFT)
 - [ ] Instruction Tuning
@@ -82,7 +66,7 @@ This repository aims to provide a comprehensive understanding of Large Language 
 
 ---
 
-## Phase 6: Alignment
+## Alignment
 
 - [ ] RLHF
 - [ ] PPO
@@ -95,35 +79,10 @@ This repository aims to provide a comprehensive understanding of Large Language 
 - [ ] Reinforcement Learning for Reasoning
 - [ ] Constitutional AI
 - [ ] AI Feedback (RLAIF)
-
 ---
 
-## Phase 7: Reasoning
 
-- [ ] Chain-of-Thought
-- [ ] Self-Consistency
-- [ ] Tree-of-Thought
-- [ ] ReAct
-- [ ] Reflection
-- [ ] Planning
-- [ ] Tool Use
-- [ ] Function Calling
-
----
-
-## Phase 8: Multimodal LLMs
-
-- [ ] Vision Encoders
-- [ ] Vision-Language Models
-- [ ] Image Tokenization
-- [ ] Audio-Language Models
-- [ ] Video-Language Models
-- [ ] Cross-Modal Fusion
-- [ ] Medical Vision-Language Models
-
----
-
-## Phase 9: Efficient Training & Inference
+## Efficient Training & Inference
 
 - [ ] FlashAttention
 - [ ] KV Cache
@@ -138,68 +97,3 @@ This repository aims to provide a comprehensive understanding of Large Language 
 - [ ] TensorRT-LLM
 
 ---
-
-## Phase 10: Agentic AI
-
-- [ ] Tool Calling
-- [ ] Retrieval-Augmented Generation (RAG)
-- [ ] Memory
-- [ ] Planning
-- [ ] Multi-Agent Systems
-- [ ] Workflow Orchestration
-- [ ] MCP
-- [ ] Agent Frameworks
-
----
-
-## Phase 11: Production Systems
-
-- [ ] Model Serving
-- [ ] API Design
-- [ ] Monitoring
-- [ ] Safety
-- [ ] Guardrails
-- [ ] Caching
-- [ ] Evaluation
-- [ ] Cost Optimization
-- [ ] Scaling
-- [ ] Deployment
-
----
-
-## Phase 12: Research Explorations
-
-This section focuses on experimental ideas and future LLM architectures.
-
-- [ ] Novel Mixture of Experts (MoE)
-- [ ] Dynamic Expert Routing
-- [ ] Adaptive Attention
-- [ ] MoE + Linear Attention
-- [ ] MoE + State Space Models
-- [ ] Reinforcement Learning for Routing
-- [ ] Retrieval-Augmented Architectures
-- [ ] Hybrid Transformer–Mamba Models
-- [ ] Memory-Augmented LLMs
-- [ ] Efficient Long-Context Models
-- [ ] Native Multimodal Architectures
-- [ ] Medical LLM Architectures
-
----
-
-## Phase 13: Research Papers
-
-- [ ] Landmark Papers
-- [ ] Architecture Papers
-- [ ] Pre-training Papers
-- [ ] Alignment Papers
-- [ ] Reasoning Papers
-- [ ] Multimodal Papers
-- [ ] Efficient Inference Papers
-- [ ] Agentic AI Papers
-- [ ] Production & Systems Papers
-
----
-
-## Long-Term Goal
-
-Build this repository into a comprehensive, research-oriented knowledge base that not only explains existing Large Language Models but also explores novel architectures, attention mechanisms, Mixture of Experts (MoE), reinforcement learning for alignment, and next-generation AI systems through implementations, experiments, and curated research.
